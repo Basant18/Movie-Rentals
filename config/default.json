@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://basant:basant@cluster0.jytoo.mongodb.net/learner?retryWrites=true&w=majority",
+    "jwtPrivateKey" : ""
+}
